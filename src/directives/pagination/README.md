@@ -202,7 +202,6 @@ repeat a series of elements instead of just one parent element:
 </footer>
 ```
 
-
 ## Multiple Pagination Instances on One Page
 
 Multiple instances of the directives may be included on a single page by specifying a `pagination-id`. This property **must** be specified in **2** places
